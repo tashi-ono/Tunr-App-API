@@ -9,6 +9,6 @@
 
 Song.create([
     {title: "Blue Cloud", artist: "Wand", time: "8:00", isFave: false },
-    {title: "Orange Skies", artist: "Love", time: "4:52", isFave: false },
-    {title: "Wasted Years", artist: "Slow Season", time: "6:04", isFave: false }
+    {title: "Orange Skies", artist: "Love", time: "2:52", isFave: false },
+    {title: "Wasted Years", artist: "Slow Season", time: "4:03", isFave: false }
 ])
